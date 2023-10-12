@@ -1,2 +1,3 @@
-# osujava
-osu! api java wrapper
+# osu-java
+
+Looking for contributors...
