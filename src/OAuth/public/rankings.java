@@ -23,7 +23,7 @@ public class Rankings {
     mode = GameModeSchema.parse(mode);
     type = RankingTypeSchema.parse(type);
     options = GetRankingOptionsSchema.optional().parse(options);
-    System.out.println("rankings/" + mode + "/" + type, connection.setRequestMethod("GET"), options)
+    System.out.println("rankings/" + mode + "/" + type, connection.setRequestMethod("GET"), options);
   }
  /* spotlight wrap wip
 */
